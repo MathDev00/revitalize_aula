@@ -48,7 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
             padding: EdgeInsets.symmetric(horizontal: 20, vertical: 20),
             margin: EdgeInsets.only(bottom: 10), // Ajusta a margem inferior
             child: Text(
-              "Seus prontuários",
+              "Prontuários",
               style: TextStyle(
                 color: Colors.black,
                 fontSize: 14,
@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
             padding: EdgeInsets.symmetric(horizontal: 20, vertical: 20),
             margin: EdgeInsets.only(bottom: 10), // Ajusta a margem inferior
             child: Text(
-              "Pacientes cadastrados",
+              "Paciente",
               style: TextStyle(
                 color: Colors.black,
                 fontSize: 14,
@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
             padding: EdgeInsets.symmetric(horizontal: 20, vertical: 20),
             margin: EdgeInsets.only(bottom: 10), // Ajusta a margem inferior
             child: Text(
-              "Funcionários cadastrados",
+              "Funcionário",
               style: TextStyle(
                 color: Colors.black,
                 fontSize: 14,
